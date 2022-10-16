@@ -9,7 +9,7 @@ i like any thing is related to Programming(in any field) :two_hearts:
 Here are some brief details about me:
 - 🔭 I’m currently working on [Retiba](https://retiba.com/)
 - 🌱 I’m currently learning PWA
-- 💬 Ask me about Client Side :)
+- 💬 Ask me about web programming :)
 - 📫 How to reach me: https://hesij.ir
 - 📫 How to reach me: jafarzadeh.hesam.wm@gmail.com
 - 😄 Pronouns: Robot OR alien :alien:
